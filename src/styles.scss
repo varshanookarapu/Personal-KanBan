@@ -4,11 +4,16 @@
     padding:0;
      box-sizing: border-box;
      font-family: 'Fuzzy Bubbles', cursive;
-    // background-image: url(/assets/images/maria-vojtovicova-SPvJPDXEmqA-unsplash.jpg);
-    // /* Center and scale the image nicely */
-    // background-position: center;
-    // background-repeat: no-repeat;
-    // background-size: cover;
+   
 
+}
 
+body{
+    background-image: url(/assets/images/maria-vojtovicova-SPvJPDXEmqA-unsplash.jpg);
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    // overflow-y: auto !important;
 }
